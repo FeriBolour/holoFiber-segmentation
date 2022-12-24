@@ -17,9 +17,9 @@ Here are some output examples from the MaskRCNN model:
 
 <table>
   <tr>
-    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN1.png" width=400 height=300 ></td>
-    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN2.png" width=400 height=300 ></td>
-    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN3.png" width=400 height=300 ></td>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN1.png" width=250 height=250 ></td>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN2.png" width=250 height=250 ></td>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN3.png" width=250 height=250 ></td>
   </tr>
  </table>
 

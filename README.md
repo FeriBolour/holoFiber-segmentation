@@ -71,3 +71,20 @@ It can be seen that the bounding-box enclosing the fiber on the left is also enc
 Subsequently, we decided that the fundamental issue is the axis-aligned bounding-boxes. To solve this issue, we developed a custom Mask-RCNN model that uses Rotated-BBoxes in the object detection network instead of the axis-aligned ones. 
 
 Here's an example of the output by the custom Faster-RCNN network that uses Rotated-BBoxes:
+
+<img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/RotatedFastRCNN.png" width=350 height=350>
+
+Currently we are actively working on a Rotated-MaskRCNN architecture that basically extends the Rotated-FasterRCNN.
+
+Here are some preliminary results from our custom Rotated-MaskRCNN:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/RotatedMaskRCNN1.png" width=350 height=350 ></td>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/RotatedMaskRCNN2.png" width=350 height=350 ></td>
+  </tr>
+ <tr>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/RotatedMaskRCNN3.png" width=350 height=350 ></td>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/RotatedMaskRCNN4.png" width=350 height=350 ></td>
+  </tr>
+ </table>

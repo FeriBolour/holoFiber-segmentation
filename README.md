@@ -88,3 +88,5 @@ Here are some preliminary results from our custom Rotated-MaskRCNN:
     <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/RotatedMaskRCNN4.png" width=350 height=350 ></td>
   </tr>
  </table>
+
+The Rotated-BBox model is definitely doing better than others however you can see some ripple effects with the masks. We are currently working on these issues.

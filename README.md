@@ -13,6 +13,16 @@ _Please contact [me](mailto:farshad.bolouri@gmail.com) or the project lead, [Yil
 
 Standard methonds such as MaskRCNN performed very poorly for instance segmentation of the holographic cotton fibers.
 
+Here are some output examples from the MaskRCNN model:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN1.png" width=350 height=350 ></td>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN2.png" width=350 height=350 ></td>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN3.png" width=350 height=350 ></td>
+  </tr>
+ </table>
+
 Therefore, various techniques and state-of-the-art architectures were explored for this task.
 
 ## TensorMask
